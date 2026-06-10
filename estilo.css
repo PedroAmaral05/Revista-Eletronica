@@ -5,3 +5,11 @@ body{
 .cabecalho{
     background: linear-gradient (to right, #329ba8 30%, #d187d4 30%)
 }
+
+.cabecalho img{
+    text-align:center;
+    width: 40%;
+}
+.cabecalho h1{
+    margin-left: 30%;
+}
