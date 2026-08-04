@@ -11,9 +11,12 @@ body{
 
 .cabecalho img{
     text-align:center;
-    width: 10%;
+    width: 100%;
 
 }
 .cabecalho h1{
     margin-left: 5%;
+}
+.conteudo1{
+    display:flex
 }
