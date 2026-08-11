@@ -23,7 +23,7 @@ font-size: 23px;
 .cabecalho h1{
     margin-left: 5%;
 }
-.conteudo1{
+.conteudo1-esquerdo{
     display:flex;
     margin-top: 30px ;
     font-size: 18px;
