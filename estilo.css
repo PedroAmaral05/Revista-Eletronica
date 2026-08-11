@@ -26,6 +26,7 @@ font-size: 23px;
 }
 .conteudo1{
     display:flex;
+    flex-direction: column-reverse;
     margin-top: 30px ;
     font-size: 18px;
 }
