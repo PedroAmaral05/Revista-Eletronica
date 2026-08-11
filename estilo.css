@@ -25,6 +25,7 @@ font-size: 23px;
 .cabecalho h1{
     margin-left: 40px;
     margin-right: 20px;
+    text-align: center;
 }
 .conteudo1{
     display:flex;
