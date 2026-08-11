@@ -30,4 +30,7 @@ font-size: 23px;
 }
     .conteudo1-direito{
     margin-left: 40px;
-    }
+}
+        .conteudo1-direito img{
+    width: 20%;
+}
