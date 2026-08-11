@@ -7,9 +7,12 @@ body{
 
  display: grid;
  grid-template-columns: 50% 50%;
- font-size: 18px;
- margin-left: 40px;
 
+}
+
+.cabecalho-direito{
+     font-size: 18px;
+    margin-left: 40px;
 }
 
 .cabecalho img{
