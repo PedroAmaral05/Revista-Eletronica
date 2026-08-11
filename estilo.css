@@ -29,10 +29,12 @@ font-size: 23px;
     font-size: 18px;
 }
 .conteudo1-esquerdo{
-    margin-left: 40px;
+    margin-left: 40px
+
 }
 .conteudo1-esquerdo img{
     width: 50%;
+        background-color: red;
 }
 .conteudo1-direito{
     margin-left: 40px;
