@@ -23,7 +23,8 @@ font-size: 23px;
 
 }
 .cabecalho h1{
-    margin-left: 5%;
+    margin-left: 40px;
+    margin-right: 20px;
 }
 .conteudo1{
     display:flex;
