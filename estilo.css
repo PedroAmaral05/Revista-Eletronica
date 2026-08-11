@@ -24,6 +24,7 @@ font-size: 23px;
 }
 .cabecalho h1{
     margin-right: 20px;
+    font-size: 40px;
 }
 .conteudo1{
     display:flex;
