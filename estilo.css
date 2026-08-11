@@ -19,4 +19,6 @@ body{
 }
 .conteudo1{
     display:flex;
+    margin-top: 30px ;
+    font-size: 22px;
 }
