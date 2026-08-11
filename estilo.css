@@ -1,17 +1,17 @@
 body{
     background-color:#6392cb;
     color:black;
-    font-size: 22px;
+
 }
 .cabecalho{
 
  display: grid;
  grid-template-columns: 50% 50%;
-
+font-size: 23px;
 }
 
 .cabecalho-direito{
-     font-size: 23px;
+     font-size: 18px;
     margin-left: 40px;
 }
 
@@ -26,5 +26,5 @@ body{
 .conteudo1{
     display:flex;
     margin-top: 30px ;
-    font-size: 22px;
+    font-size: 18px;
 }
